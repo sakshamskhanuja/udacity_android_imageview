@@ -22,7 +22,7 @@ Image used - [rocks](https://user-images.githubusercontent.com/122201501/2242846
 
 ### Screenshots
 
-| Device | Virtual | OS | API | Orientation |
-| --- | --- | --- | --- | --- |
-| Pixel 6 Pro | Yes | Android Q | 29 | [Portrait](https://user-images.githubusercontent.com/122201501/224284328-fdb3c572-a561-4998-a67f-a6a5dfa3e122.png) |
-| Pixel 6 Pro | Yes | Android Q | 29 | [Landscape](https://user-images.githubusercontent.com/122201501/224283404-647fb93b-1d58-4ed6-ad3a-8a06ef11a5f6.png) |
+| Device      | Virtual | OS        | API | Orientation                                                                                                         |
+|-------------|---------|-----------|-----|---------------------------------------------------------------------------------------------------------------------|
+| Pixel 6 Pro | Yes     | Android Q | 29  | [Portrait](https://user-images.githubusercontent.com/122201501/224284328-fdb3c572-a561-4998-a67f-a6a5dfa3e122.png)  |
+| Pixel 6 Pro | Yes     | Android Q | 29  | [Landscape](https://user-images.githubusercontent.com/122201501/224283404-647fb93b-1d58-4ed6-ad3a-8a06ef11a5f6.png) |
